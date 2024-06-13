@@ -11,3 +11,6 @@
  #Usando remote e push
  #teste
  #git pull
+
+
+#git fetch
