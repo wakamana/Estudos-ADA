@@ -10,3 +10,4 @@
  
  #Usando remote e push
  #teste
+ #git pull
