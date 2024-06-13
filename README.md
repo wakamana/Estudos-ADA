@@ -5,3 +5,7 @@
 #Mudanças
 
 #Testando Log
+
+*Uso do comando restore
+ 
+ #Usando remote e push
